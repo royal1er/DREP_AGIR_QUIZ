@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93e759d8-07ea-4943-96b5-a3354e52a494" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/quizdrep/lib/Static/QuizLogicAdult.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quizdrep/lib/Static/QuizSpec.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quizdrep/lib/Static/adult.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quizdrep/lib/Static/enfant.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quizdrep/lib/Static/qs.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quizdrep/lib/quiz/globals.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quizdrep/lib/quiz/md.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quizdrep/lib/quiz/quiz.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quizdrep/lib/quizscreen/checkanswers.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quizdrep/lib/quizscreen/quizpage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quizdrep/lib/quizscreen/wave_clipper_2.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quizdrep/lib/screens/about.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quizdrep/lib/screens/quiz_enfant.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/android" beforeDir="false" afterPath="$PROJECT_DIR$/quizdrep/android" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/android/.gradle/4.10.2/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/android/.gradle/4.10.2/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/android/.gradle/4.10.2/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/android/.gradle/4.10.2/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/android/.gradle/4.10.2/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/android/.gradle/4.10.2/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/android/.gradle/4.10.2/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/android/.gradle/4.10.2/javaCompile/jarAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/android/.gradle/4.10.2/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/android/.gradle/4.10.2/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/android/.gradle/4.10.2/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/android/.gradle/4.10.2/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/quizdrep/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/android/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/quizdrep/android/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/android/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/quizdrep/android/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/quizdrep/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" beforeDir="false" afterPath="$PROJECT_DIR$/quizdrep/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/android/app/src/main/java/jeanant/quiz/io/quizdemo/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/quizdrep/android/app/src/main/java/jeanant/quiz/io/quizdemo/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/quizdrep/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/quizdrep/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/android/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/quizdrep/android/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/lib/component/form_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/quizdrep/lib/component/form_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/quizdrep/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/lib/screens/accueil.dart" beforeDir="false" afterPath="$PROJECT_DIR$/quizdrep/lib/screens/acceuil.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/lib/screens/categorie.dart" beforeDir="false" afterPath="$PROJECT_DIR$/quizdrep/lib/screens/categorie.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/lib/screens/incrisption.dart" beforeDir="false" afterPath="$PROJECT_DIR$/quizdrep/lib/screens/incrisption.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/lib/screens/quiz.dart" beforeDir="false" afterPath="$PROJECT_DIR$/quizdrep/lib/screens/quiz.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/lib/screens/quiz_adulte.dart" beforeDir="false" afterPath="$PROJECT_DIR$/quizdrep/lib/screens/quiz_adulte.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/quizdrep/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizdrep/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/quizdrep/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Android_Accelerated_x86_Oreo" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/quizdrep" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectId" id="1ZY8EEbRcPgU7OmYjLHxglJW7sC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../coda_news" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alleb\Downloads\quizdrep-20200322T004127Z-001\quizdrep\lib\Static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/quizdrep/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter.main.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93e759d8-07ea-4943-96b5-a3354e52a494" name="Default Changelist" comment="" />
+      <created>1585004553630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585004553630</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
